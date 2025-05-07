@@ -1,0 +1,25 @@
+# EGB349 Project
+
+## Overview
+This project is part of the EGB349 course. It includes various components and tasks aimed at enhancing understanding of engineering principles and practices.
+
+## Contents
+- **Code**: Source code for the project.
+- **Documentation**: Detailed explanations of the project components.
+- **Reports**: Analysis and results of the project.
+
+## How to Use
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Follow the instructions in the documentation to run the project.
+
+## Requirements
+- Python 3.8 or higher
+- Required libraries (listed in `requirements.txt`)
+
+## Authors
+- Jonah
+- Team Members
+
+## License
+This project is licensed under the MIT License. See `LICENSE` for details.
