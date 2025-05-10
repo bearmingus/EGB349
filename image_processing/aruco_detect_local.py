@@ -37,8 +37,8 @@ with dai.Device(pipeline) as device:
                 cv2.circle(frame, (center_x, center_y), 5, (0, 255, 0), -1)
                 print(f"ID: {ids[i][0]} | Center: ({center_x}, {center_y})")
 
-        cv2.imshow("ArUco Marker Detection", frame)
-        if cv2.waitKey(1) & 0xFF == ord('q'):
-            break
+        # cv2.imshow("ArUco Marker Detection", frame)
+        # if cv2.waitKey(1) & 0xFF == ord('q'):
+        #     break
 
 cv2.destroyAllWindows()
