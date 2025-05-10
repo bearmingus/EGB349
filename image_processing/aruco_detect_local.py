@@ -4,7 +4,7 @@ import numpy as np
 
 # Load predefined dictionary
 aruco_dict = cv2.aruco.getPredefinedDictionary(cv2.aruco.DICT_4X4_50)
-parameters = cv2.aruco.DetectorParameters()
+parameters = cv2.aruco.DetectorParameters_create()
 
 # OAK-D camera setup
 pipeline = dai.Pipeline()
